@@ -6,7 +6,7 @@ A modern, responsive React app to search for GitHub users and view their profile
 
 ## 🚀 Live Demo
 
-- [Live Preview on Vercel/Netlify](#)
+- [Live Preview on Vercel](https://github-user-search-lilac-three.vercel.app/)
 - [GitHub Repository](https://github.com/Kalyanpandaga/github_user_search)
 
 ---
